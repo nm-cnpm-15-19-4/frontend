@@ -1,0 +1,2 @@
+# template
+Education Page Template
