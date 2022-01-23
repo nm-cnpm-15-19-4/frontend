@@ -1,2 +1,2 @@
-# template
-Education Page Template
+# Information
+Education Page
